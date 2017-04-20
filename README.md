@@ -1,14 +1,14 @@
-## Readme-windows version##
+## Readme-windows version
 
-### **Intro**:###
+### **Intro:
  - python version: `python 3.x`
  - numpy/scikit installation: `pip install xxxx`/ `conda install xxxx`
  - accelerate installation: `conda install accelerate`
 
-### **Advice**:###
+### **Advice:
  - We advise that you install the anaconda `python version 3.x` and install the library-`numpy`, `scipy`, `accelerate` by typing `conda install xxx` at the terminal for easily running all the python files.
 
-### **Support**:###
+### **Support:
  - python installation:
 If you install python 3.x, it will be set the environment path automately for windows and install pip at the same time.
 
@@ -22,8 +22,8 @@ You can visit [this website](https://www.continuum.io/) downloads to install the
 Because it's a library in the anaconda not for the pip, so you can open the terminal, and type `conda install accelerate`, just like pip install library, and all the processes are automated 
 [ for more information](https://docs.continuum.io/accelerate/) . For the GPU verson Option Valuation file, you need to install the numpy and scipy again using 'conda install'.
 
-### **Program run:**###
+### **Program run:
  - Just open the terminal, come to the file folder and type `python filename`, it will work.
  - Use the python IDE, like pycharm, and select the right project interpreter, and run each file.
 
-#### Have fun :)####
+#### Have fun :)
