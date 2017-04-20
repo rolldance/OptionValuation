@@ -11,10 +11,10 @@
 
 ### **Support**:
  - python installation:
-If you install python 3.x, it will be set the environment path automately for windows and install pip at the same time.
+If you install `python 3.x`, it will be set the environment path automately for windows and install pip at the same time.
 
  - library installation:
-You just need to open the terminal, and type 'pip install numpy' (for example), then it will install the library automately, for more information, you can visit [this website](https://pip.pypa.io/en/stable/installing/) to install pip and install the library using it.
+You just need to open the terminal, and type `pip install numpy` (for example), then it will install the library automately, for more information, you can visit [this website](https://pip.pypa.io/en/stable/installing/) to install pip and install the library using it.
 
  - anaconda installation:
 You can visit [this website](https://www.continuum.io/) downloads to install the anaconda `python 3.x version` for the windows and it will set the environment path automately.
