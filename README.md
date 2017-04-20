@@ -1,6 +1,6 @@
-##Readme-windows version##
+##Readme-windows version
 
-- ###**Intro**:###
+- ###**Intro**:
  - python version: `python 3.x`
  - numpy/scikit installation: `pip install xxxx`/ `conda install xxxx`
  - accelerate installation: `conda install accelerate`
